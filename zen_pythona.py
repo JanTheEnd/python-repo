@@ -38,4 +38,5 @@ Teraz jest lepsze niż nigdy.
 Chociaż nigdy jest często lepsze niż natychmiast.
 Jeśli rozwiązanie jest trudno wyjaśnić, to jest ono złym pomysłem.
 Jeśli rozwiązanie jest łatwo wyjaśnić, to może ono być dobrym pomysłem.
-Przestrzenie nazw to jeden z niesam"""
+Przestrzenie nazw to jeden z niesam
+Przestrzenie nazw to jeden z niesamowicie genialnych pomysłów -- miejmy ich więcej!"""
