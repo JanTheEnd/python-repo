@@ -1,6 +1,6 @@
 #import this
 
-"""EndriuszBeautiful is better than ugly.
+"""Endriusz_____Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
