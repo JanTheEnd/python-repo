@@ -20,7 +20,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea - - let's do more of those!"""
 
-message1 = """Piękne jest lepsze niż brzydkie.
+"""Piękne jest lepsze niż brzydkie.
 Wyrażone wprost jest lepsze niż domniemane.
 Proste jest lepsze niż złożone.
 Złożone jest lepsze niż skomplikowane.
@@ -39,6 +39,3 @@ Chociaż nigdy jest często lepsze niż natychmiast.
 Jeśli rozwiązanie jest trudno wyjaśnić, to jest ono złym pomysłem.
 Jeśli rozwiązanie jest łatwo wyjaśnić, to może ono być dobrym pomysłem.
 Przestrzenie nazw to jeden z niesamowicie genialnych pomysłów -- miejmy ich więcej!"""
-print(message, message1)
-
-
