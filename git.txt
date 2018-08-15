@@ -1,3 +1,4 @@
+########## inicjalizacja gita
 https://github.com/EndTheEnd/second-repo.git
 echo "# second-repo" >> README.md
 git init
@@ -7,3 +8,5 @@ git remote add origin https://github.com/EndTheEnd/second-repo.git
 git push -u origin master
 git remote add origin https://github.com/EndTheEnd/second-repo.git
 git push -u origin master
+
+/////////////////////////////////////////////////////////////////////
