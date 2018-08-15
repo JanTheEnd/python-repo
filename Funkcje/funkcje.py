@@ -45,9 +45,29 @@
 # descirbe_pet() ### brak argumentów funkcji błąd kompilacji
 
 ########## wartość zwrotna  -  zwrot prostej wartości
-def get_formatted_name(first_name, last_name):
+# def get_formatted_name(first_name, last_name):
+#     """Zwraca elegancko sformatowane pełne imię i nazwisko."""
+#     full_name = first_name + ' ' + last_name
+#     return full_name.title()
+# musician = get_formatted_name('jimi', 'hendrix')
+# print(musician)
+
+########## definiowanie argumentu jako opcjonalnego
+# def get_formatted_name(first_name, middle_name, last_name):
+#     """Zwraca elegancko sformatowane pełne imię i nazwisko."""
+#     full_name = first_name + ' ' + middle_name + ' ' + last_name
+#     return full_name.title()
+
+# musician = get_formatted_name('john', 'lee', 'hooker')
+# print(musician)
+
+def get_formatted_name(first_name, last_name, middle_name=''):
     """Zwraca elegancko sformatowane pełne imię i nazwisko."""
-    full_name = first_name + ' ' + last_name
+    if middle_name:
+        full_name = first_name + ' ' + middle_name + ' ' + last_name
+    else:
+        full_name = first_name + ' ' + last_name
     return full_name.title()
-musician = get_formatted_name('jimi', 'hendrix')
+musician = get_formatted_name('jimi','hendrix')
 print(musician)
+musician = get_formatted_name('john', 'hooker', 'lee')
