@@ -10,3 +10,8 @@ git remote add origin https://github.com/EndTheEnd/second-repo.git
 git push -u origin master
 
 /////////////////////////////////////////////////////////////////////
+git init
+git config --global user.name "EndTheEnd <lub> JanTheEnd" 
+git config --global user.imail "endi1207@gmail.com <lub> endriusza@interia.pl"
+git log
+git commit -m 
