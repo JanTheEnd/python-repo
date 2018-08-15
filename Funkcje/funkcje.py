@@ -46,7 +46,7 @@
 
 ########## wartość zwrotna  -  zwrot prostej wartości
 def get_formatted_name(first_name, last_name):
-    """Zwraca elegancko sformatowane pełne imię i nazwisko."""
+    """Zwraca elegancko sformatowane pełne imię i nazwisko_Andrzej J."""
     full_name = first_name + ' ' + last_name
     return full_name.title()
 musician = get_formatted_name('jimi', 'hendrix')

@@ -83,5 +83,5 @@
 # print(cars)
 
 ############ Okreslenie wielkości listy
-# cars = ['bmw', 'audi', 'toyota', 'subaru']
-# print(len(cars))
+cars = ['bmw', 'audi', 'toyota', 'subaru' 'syrenka']
+print(len(cars))
