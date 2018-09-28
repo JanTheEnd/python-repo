@@ -1,5 +1,0 @@
-///// wysyłanie zmienionego pliku do gita
-
-git add nazwa_pliku
-git commit - "Lerning Python"
-git push

@@ -1,0 +1,19 @@
+Beautiful is better than ugly. -                                        Piękne jest lepsze niż brzydkie.
+Explicit is better than implicit. -                                     Wyrażone wprost jest lepsze niż domniemane.
+Simple is better than complex. -                                        Proste jest lepsze niż złożone.
+Complex is better than complicated. -                                   Złożone jest lepsze niż skomplikowane.
+Flat is better than nested. -                                           Płaskie jest lepsze niż wielopoziomowe.
+Sparse is better than dense. -                                          Rzadkie jest lepsze niż gęste.
+Readability counts. -                                                   Czytelność się liczy.
+Special cases aren't special enough to break the rules. -               Sytuacje wyjątkowe nie są na tyle wyjątkowe, aby łamać reguły.
+Although practicality beats purity. -                                   Choć praktyczność przeważa nad konsekwencją.
+Errors should never pass silently. -                                    Błędy zawsze powinny być sygnalizowane.
+Unless explicitly silenced. -                                           Chyba że zostaną celowo ukryte. 
+In the face of ambiguity, refuse the temptation to guess. -             W razie niejasności powstrzymaj pokusę zgadywania.
+There should be one—and preferably only one—obvious way to do it. -     Powinien być jeden -- i najlepiej tylko jeden -- oczywisty sposób na zrobienie danej rzeczy.
+Although that way may not be obvious at first unless you're Dutch. -    Choć ten sposób może nie być oczywisty jeśli nie jest się Holendrem.
+Now is better than never. -                                             Teraz jest lepsze niż nigdy.
+Although never is often better than right now. -                        Chociaż nigdy jest często lepsze niż natychmiast.
+If the implementation is hard to explain, it's a bad idea. -            Jeśli rozwiązanie jest trudno wyjaśnić, to jest ono złym pomysłem.
+If the implementation is easy to explain, it may be a good idea. -      Jeśli rozwiązanie jest łatwo wyjaśnić, to może ono być dobrym pomysłem.
+Namespaces are one honking great idea—let's do more of those! -         Przestrzenie nazw to jeden z niesamowicie genialnych pomysłów -- miejmy ich więcej!

@@ -1,0 +1,27 @@
+title() - tworzy duże litery kolejnych wyrazów 												
+upper() - zamienia wszystkie litery wyrazu na duże 											
+lower() - zamienia wszystkie litery wyrazu na małe 											
+rstrip() - usuwa białe znaki po prawej stronie ciągu tekstowego 							
+lstrip() - usuwa białe znaki po lewej stronie ciągu tekstowego 								
+strip() - usuwa białe znaki  po obu stronach ciągu tekstowego 	
+append() - umieszczenie nowego elementu na końcu listy 				
+insert() - wstawianie nowego elementu w dowolnie wybranym miejscu 	
+del - usunięcie elementu listy (del motocykle[0]) 					 
+pop() - powoduje usunięcie (górnego - ostatniego) elementu ale pozwala na pracę z nim 
+remove() - ustala położenie elementu na liście a następnie go usuwa
+sort() - sortuje elementy listy
+sorted() - zachowuje pierwotne ustawienie elementów listy, ale wyświetla pososrtowane
+reverse() - odwraca pierwotną kolejność listy
+len() - ustala wielkość (długość) listy
+range() - ułatwia generowanie serii liczb
+list() - tworzy listęciem
+min() - wskazuje najmniejszą liczbę
+max() - wskazuje największą liczbę
+sum() - wskazuje sume liczb
+input() - funkcja wstrzymuje działanie programu i czeka na podanie pewnych informacji
+int() - funkcja konweruje string na dane liczbowe
+str() - funkcja konweruje na string
+items() - metoda której wartością zwrotną jest lista par klucz-wartość
+keys() - Metoda jest użyteczna, gdy nie trzeba przetwarzać wszystkich wartości znajdujących się w słowniku
+values() - metoda zwraca listę wartości bez jakichkolwiek kluczy
+set() - wywołanie do pobrania unikatowych nazw słownika
